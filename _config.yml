@@ -21,7 +21,7 @@ repository               : "Reinhar6t/Reinhar6t.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "Xiaoyang LIU"
   pronouns         : # example: "she/her"  
   bio              : "Master's graduate from TUM"
